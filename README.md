@@ -9,13 +9,14 @@
 ## tvcoders
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Daniel Barzilai</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Giovanna Rodrigues</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Luiz Borges</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Emanuel Costa</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Thomas Barton</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Antonio Angelo Teixeira</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Sophia Tosar</a>
+- <a href=>Antonio Angelo Teixeira</a>
+- <a href="https://www.linkedin.com/in/daniel-barzilai-061036234/">Daniel Barzilai</a>
+- <a href="https://www.linkedin.com/in/emanuel-45b637185/">Emanuel Costa</a>
+- <a href="https://www.linkedin.com/in/giovanna-rodrigues-araujo/">Giovanna Rodrigues</a>
+- <a href="https://www.linkedin.com/in/sbluizfernando/"> Luiz Borges</a>
+- <a href="https://www.linkedin.com/in/sophia-de-oliveira-tosar-aba7ab23b/">Sophia Tosar</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Thomas Barton</a> 
+
 
 ## 📝 Descrição
 
