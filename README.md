@@ -9,7 +9,7 @@
 ## tvcoders
 
 ## Integrantes: 
-- <a href=>Antonio Angelo Teixeira</a>
+- <a href=''>Antonio Angelo Teixeira</a>
 - <a href="https://www.linkedin.com/in/daniel-barzilai-061036234/">Daniel Barzilai</a>
 - <a href="https://www.linkedin.com/in/emanuel-45b637185/">Emanuel Costa</a>
 - <a href="https://www.linkedin.com/in/giovanna-rodrigues-araujo/">Giovanna Rodrigues</a>
