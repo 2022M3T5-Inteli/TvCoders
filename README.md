@@ -20,7 +20,7 @@
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+Criação de um modelo preditivo para análise de audiência da Tv Gazeta, Espírito Santo.
 
 ## 📁 Estrutura de pastas
 
