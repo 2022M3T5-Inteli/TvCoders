@@ -25,10 +25,11 @@
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T5_G4_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T5_G4_V(VERSÃO)_Predictive_Model_Document.docx<br>
+  &emsp;| T5_G4_V5.1_PredTv-Grupo4.pdf<br>
+  &emsp;| T5_G4_V5.1_PredTv-Grupo4.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T5_G4_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T5_G4_V_Pré.ipynb<br>
+  &emsp;|--> T5_G4_V_KNN.ipynb<br>
 | readme.md<br>
 | license.txt
 
@@ -48,18 +49,33 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 12/08/2022
-    * Entendimento do negócio
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 1.0.0 - 12/08/2022
+    * Create file antigos
+    * Add first version of Al documentation
+* 1.1.0 - 15/08/2022
+    * Add first version of document
+    * Delete PredTv - Grupo 4.pdf
+    * Delete PredTv - Grupo 4.docx
+* 1.2.0 - 25/08/2022
+    * UPdate Read me
+* 1.2.1 - 26/08/2022
+    * Update Readme
+* 1.2.2 - 28/08/2022
+    * Update Readme
+    * Delete placeholder.txt
+    * Entrega sprint 2
+    * Delete notebooks
+    * Create file notebooks
+* 2.0.0 - 12/09/2022
+    * Entrega sprint 3
+    * Merge branch 'main' of https://github.com/2022M3T5/Projeto4
+* 2.1.0 - 26/09/2022
+    * sprint-4
+* 3.0.0 - 05/10/2022
+    * read-me parte1   
+* 3.0.1 - 05/10/2022
+     * read-me parte2
+     * read-me parte3
 
 ## 📋 Licença/License
 
