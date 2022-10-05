@@ -19,7 +19,7 @@
 
 
 ## 📝 Descrição
-&emsp;O projeto apresentado tem como principal objetivo solucionar o problema de definição da grade horária da TV Gazeta - ES - Brasil, essa dor da emissora é resultado da quantidade de variáveis que influenciam na adesão ou não adesão de um programa por parte do público e a incapacidade de se prever isso sem a abordagem correta. Diante disso, a solução proposta pelo time de desenvolvimento foi a criação de um modelo preditivo de regressão, o qual visa gerar resultados de audiências com base em informações inputadas pelo usuário, tais como o horário e o dia de exibição do programa.
+&emsp;O projeto apresentado tem como principal objetivo solucionar o problema de definição da grade horária da TV Gazeta(ES - Brasil), essa dificuldade da emissora é resultado da quantidade de variáveis que influenciam na adesão ou não adesão de um programa por parte do público e a incapacidade de se prever isso sem a abordagem correta. Diante disso, a solução proposta pelo time de desenvolvimento foi a criação de um modelo preditivo de regressão, o qual visa gerar resultados de audiências com base em informações inputadas pelo usuário, tais como o horário e o dia de exibição do programa.
 
 ## 📁 Estrutura de pastas
 
