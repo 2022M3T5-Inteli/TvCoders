@@ -48,8 +48,8 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 12//2022
-    * 
+* 0.2.1 - 12/08/2022
+    * Entendimento do negócio
 * 0.2.0 - 15/01/2022
     * Remove `setDefaultXYZ()`
     * Adiciona `init()`
@@ -63,7 +63,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Antonio Angelo Teixeira, Daniel Barzilai, Emanuel Costa, Giovanna Rodrigues, Luiz Borges, Sophia Tosar, Thomas Barton</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.inteli.edu.br/escritorio-de-projetos/">INTELI,</a>  <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/2022M3T5/Projeto4">TV Coders</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
