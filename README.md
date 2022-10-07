@@ -24,7 +24,7 @@
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
-  &emsp;| --> outros <br>
+  &emsp;| --> antigos <br>
   &emsp;| T5_G4_V5.1_PredTv-Grupo4.pdf<br>
   &emsp;| T5_G4_V5.1_PredTv-Grupo4.docx<br>
 |--> notebooks<br>
